@@ -1,6 +1,6 @@
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Welcome!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 ## :school: Education
 - 부산대학교 수학과(2017.03 ~ 2024.02)<br>
