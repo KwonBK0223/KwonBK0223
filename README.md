@@ -26,10 +26,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Matlab-007ACC?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-8B9CC?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=java&logoColor=white">
 
 ### 📫 Stats
 [![KwonBK0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonBK0223)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac
