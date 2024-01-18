@@ -3,11 +3,12 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 ## :school: Education
-- 부산대학교 수학과(2017.03 ~ 2024.02)<br>
-- 부산대학교 산업수학소프트웨어 연계전공(2022.03 ~ 2024.02)<br>
-- 부산대학교 산업수학센터 학부연구생(2023.03 ~ 2023.12)<br>
-- 경북대학교 데이터사이언스 대학원(2024.03 ~)<br>
+- 경북대학교 데이터사이언스 대학원 석사과정 (2024.03 ~)
+- 부산대학교 산업수학센터 학부연구생 (2023.03 ~ 2023.12)
+- 부산대학교 산업수학소프트웨어 연계전공 (2022.03 ~ 2024.02)
+- 부산대학교 수학과 (2017.03 ~ 2024.02)
 
+  
 ## :trophy: Prize
 - 2023 날씨 빅데이터 콘테스트 **입선**<br>
 - 2023 영남수학회 포스터발표 **장려상**
