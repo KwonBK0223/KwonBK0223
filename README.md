@@ -3,9 +3,10 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Welcome!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 ### :school: Education
-- 부산대학교 수학과(2017 ~ 2024)<br>
-- 부산대학교 산업수학소프트웨어 연계전공(2017 ~ 2024)<br>
-- 경북대학교 데이터사이언스 대학원(2024 ~)<br>
+- 부산대학교 수학과(2017.03 ~ 2024.02)<br>
+- 부산대학교 산업수학소프트웨어 연계전공(2022.03 ~ 2024.02)<br>
+- 부산대학교 산업수학센터 학부연구생(2023.03 ~ 2023.12)<br>
+- 경북대학교 데이터사이언스 대학원(2024.03 ~)<br>
 
 ### :trophy: Prize
 - 2023 날씨 빅데이터 콘테스트 **입선**<br>
@@ -16,7 +17,8 @@
 - (2023.09 ~ 10) [기상현상에 따른 뜰개(drift) 추적, 제3회 해양과학 빅데이터 경진대회](https://github.com/KwonBK0223/SEALAB_2023)
 - (2023.06 ~ 08) [기상에 따른 선박 닻 끌림 예측, 2023 날씨 빅데이터 콘테스트](https://github.com/KwonBK0223/Weather_Bigdata_Contest)
 - (2023.07 ~ 08) 정신 질환 관련 환자군 분류 기법 개발, 부산대학교 산업수학센터
-- (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
+- (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류, 2023 영남수학회](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
+- (2023.03~05) [머신러닝을 활용한 개인 맞춤형 금융상품 추천 서비스](https://github.com/KwonBK0223/Personalized_financial_product_recommendation_project_using_machine_learning)
 
 
 ### 📋Once I've Used
