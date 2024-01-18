@@ -16,8 +16,8 @@
 - (2023.11) [빅데이터 기반의 학령인구 예측 (제1회 K-DS 컨소시엄&해커톤)](https://github.com/KwonBK0223/KDS_Hackathon_2023/tree/main)
 - (2023.09 ~ 10) [기상현상에 따른 뜰개 추적 (제3회 해양과학 빅데이터 경진대회)](https://github.com/KwonBK0223/SEALAB_2023)
 - (2023.06 ~ 08) [기상에 따른 선박 닻 끌림 예측 (2023 날씨 빅데이터 콘테스트)](https://github.com/KwonBK0223/Weather_Bigdata_Contest)
-- (2023.07 ~ 08) 정신 질환 관련 환자군 분류 기법 개발 (부산대학교 산업수학센터)
-- (2023.07 ~ 08) [Covid-19 미분방정식 역학 모델 생성, SEIRD (부산대학교 수리생물학 학부연구생)](https://github.com/KwonBK0223/Covid19_differential-equation-model-SEIRD/tree/main)
+- (2023.07 ~ 08) 정신 질환 관련 환자군 분류 기법 개발 (부산대학교 산업수학센터 학부연구생 프로젝트)
+- (2023.07 ~ 08) [Covid-19 미분방정식 역학 모델 생성, SEIRD (부산대학교 수리생물학 학부연구생 프로젝트)](https://github.com/KwonBK0223/Covid19_differential-equation-model-SEIRD/tree/main)
 - (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류 (2023 영남수학회, 2023 수학오월장)](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
 - (2023.03~05) [머신러닝을 활용한 개인 맞춤형 금융상품 추천 서비스 (2023 수학오월장)](https://github.com/KwonBK0223/Personalized_financial_product_recommendation_project_using_machine_learning)
 
