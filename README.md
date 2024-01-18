@@ -16,7 +16,7 @@
 - (2023.09 ~ 10) [기상현상에 따른 뜰개(drift) 추적, 제3회 해양과학 빅데이터 경진대회](https://github.com/KwonBK0223/SEALAB_2023)
 - (2023.06 ~ 08) [기상에 따른 선박 닻 끌림 예측, 2023 날씨 빅데이터 콘테스트](https://github.com/KwonBK0223/Weather_Bigdata_Contest)
 - (2023.07 ~ 08) 정신 질환 관련 환자군 분류 기법 개발, 부산대학교 산업수학센터
-- (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web side : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
+- (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
 
 
 ### 📋Once I've Used
