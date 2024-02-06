@@ -14,7 +14,7 @@
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 ## 👨🏻‍💻Project
-- (2024.01 ~ 02) [고객 대출등급 분류 해커톤(Dacon, private : 22/784, 2.8%)]
+- (2024.01 ~ 02) [고객 대출등급 분류 해커톤(Dacon, private : 22/784, 2.8%)](https://github.com/KwonBK0223/customer_loan_rating_hackathon/tree/main)
 - (2023.11) [빅데이터 기반의 학령인구 예측 (제1회 K-DS 컨소시엄&해커톤)](https://github.com/KwonBK0223/KDS_Hackathon_2023/tree/main)
 - (2023.09 ~ 10) [기상현상에 따른 뜰개 추적 (제3회 해양과학 빅데이터 경진대회)](https://github.com/KwonBK0223/SEALAB_2023)
 - (2023.06 ~ 08) [기상에 따른 선박 닻 끌림 예측 (2023 날씨 빅데이터 콘테스트)](https://github.com/KwonBK0223/Weather_Bigdata_Contest)
