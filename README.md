@@ -19,7 +19,7 @@
 - (2024.05 ~ 08) [XGBoost, LightGBM, CatBoost 앙상블 모델과 SHAP_Value를 활용한 전력기상지수 예측 및 주요 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제4 전력분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Elec)
 - (2024.05 ~ 08) [XGBoost + Oversampling + SHAP_Value을 활용한시정 계급 예측 및 유의미한 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제2 안개분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Fog)
 - (2024.04 ~ 07) [GraphSage+GRU+RandomForest 모델을 활용한 수계, 생물계 데이터 기반 생물종 다양성 예측 (2024 환경데이터 활용 및 분석 공모전(분석부문))](https://github.com/KwonBK0223/2024_Echoton)
-- (2024.03 ~ 06) [Graph Neural Network를 활용한 KBO 승부예측 (11th 2024 Deep Learn, summer school & CKAIA, 한국인공지능학회 2024 하계학술대회)](https://github.com/KwonBK0223/KBO_Match_Prediction_with_GNN)
+- (2024.03 ~ 06) [Graph Neural Network를 활용한 KBO 승부예측 (DeepLearn 2024 11th International School on Deep Learning & CKAIA, 한국인공지능학회 2024 하계학술대회)](https://github.com/KwonBK0223/KBO_Match_Prediction_with_GNN)
 - (2024.01 ~ 02) [고객 대출등급 분류 해커톤(Dacon, private : 22/784, 2.8%)](https://github.com/KwonBK0223/customer_loan_rating_hackathon/tree/main)
 - (2023.11) [빅데이터 기반의 학령인구 예측 (제1회 K-DS 컨소시엄&해커톤)](https://github.com/KwonBK0223/KDS_Hackathon_2023/tree/main)
 - (2023.09 ~ 10) [기상현상에 따른 뜰개 추적 (제3회 해양과학 빅데이터 경진대회)](https://github.com/KwonBK0223/SEALAB_2023)
