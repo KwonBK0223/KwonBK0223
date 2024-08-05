@@ -15,6 +15,7 @@
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 ## 👨🏻‍💻Project
+- (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 - (2024.05 ~ 08) [XGBoost, LightGBM, CatBoost 앙상블 모델과 SHAP_Value를 활용한 전력기상지수 예측 및 주요 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제4 전력분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Elec)
 - (2024.05 ~ 08) [XGBoost + Oversampling + SHAP_Value을 활용한시정 계급 예측 및 유의미한 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제2 안개분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Fog)
 - (2024.04 ~ 07) [GraphSage+GRU+RandomForest 모델을 활용한 수계, 생물계 데이터 기반 생물종 다양성 예측 (2024 환경데이터 활용 및 분석 공모전(분석부문))](https://github.com/KwonBK0223/2024_Echoton)
