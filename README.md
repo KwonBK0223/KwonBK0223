@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 ## :school: Education
-- 경북대학교 데이터사이언스 대학원 AAI LAB [Homepage](https://sites.google.com/view/suhyeon-kim/home) (2024.03 ~)
+- 경북대학교 데이터사이언스 대학원 AAI LAB [[Homepage]](https://sites.google.com/view/suhyeon-kim/home) (2024.03 ~)
 - 경북대학교 데이터사이언스 대학원 석사과정 (2024.03 ~)
 - 부산대학교 산업수학센터 학부연구생 (2023.03 ~ 2023.12)
 - 부산대학교 산업수학소프트웨어 연계전공 (2022.03 ~ 2024.02)
