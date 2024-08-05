@@ -44,8 +44,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 ## 📫 Stats
-[![KwonBK0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonBK0223)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=house9895)](https://solved.ac/house9895)
+[![KwonBK0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonBK0223)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 </div>
