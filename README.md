@@ -15,8 +15,8 @@
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 ## 👨🏻‍💻Project
-- (2024.04 ~ 06) [GraphSage+GRU+RandomForest 모델을 활용한 수계, 생물계 데이터 기반 생물종 다양성 예측(2024 환경데이터 활용 및 분석 공모전(분석부문)]
-- (2024.03 ~ 06) [Graph Neural Network를 활용한 KBO 승부예측(11th 2024 Deep Learn, summer school & CKIA, 한국인공지능학회 2024 하계학술대회)]
+- (2024.04 ~ 06) GraphSage+GRU+RandomForest 모델을 활용한 수계, 생물계 데이터 기반 생물종 다양성 예측(2024 환경데이터 활용 및 분석 공모전(분석부문)
+- (2024.03 ~ 06) Graph Neural Network를 활용한 KBO 승부예측(11th 2024 Deep Learn, summer school & CKAIA, 한국인공지능학회 2024 하계학술대회)
 - (2024.01 ~ 02) [고객 대출등급 분류 해커톤(Dacon, private : 22/784, 2.8%)](https://github.com/KwonBK0223/customer_loan_rating_hackathon/tree/main)
 - (2023.11) [빅데이터 기반의 학령인구 예측 (제1회 K-DS 컨소시엄&해커톤)](https://github.com/KwonBK0223/KDS_Hackathon_2023/tree/main)
 - (2023.09 ~ 10) [기상현상에 따른 뜰개 추적 (제3회 해양과학 빅데이터 경진대회)](https://github.com/KwonBK0223/SEALAB_2023)
