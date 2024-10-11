@@ -17,7 +17,7 @@
 - 2023 날씨 빅데이터 콘테스트 **입선**<br>
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
-## 👨🏻‍💻Project
+## 👨🏻‍💻 On going Project
 - (2024.10 ~   ) 뉴턴의 고전역학과 딥러닝의 만남: 어선 위험 상황 탐지 시스템 (제2회 K-DS 컨소시엄&해커톤)
 - (2024.10 ~   ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon, private : )
 - (2024.09 ~ 10) 데이터 기반 페르소나 정의와 마케팅 전략 수립: Feature Engineering & k-Means Clustering (DIVE 2024 해커톤)
@@ -37,7 +37,7 @@
 - (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류 (2023 영남수학회, 2023 수학오월장)](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
 - (2023.03~05) [머신러닝을 활용한 개인 맞춤형 금융상품 추천 서비스 (2023 수학오월장)](https://github.com/KwonBK0223/Personalized_financial_product_recommendation_project_using_machine_learning)
 
-
+## 👨🏻‍💻 Completed Project
 ## 📋Once I've Used
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
