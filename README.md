@@ -20,10 +20,13 @@
 ## 👨🏻‍💻 On going Project
 - (2024.10 ~   ) 뉴턴의 고전역학과 딥러닝의 만남: 어선 위험 상황 탐지 시스템 (제2회 K-DS 컨소시엄&해커톤)
 - (2024.10 ~   ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon, private : )
-- (2024.09 ~ 10) 데이터 기반 페르소나 정의와 마케팅 전략 수립: Feature Engineering & k-Means Clustering (DIVE 2024 해커톤)
 - (2024.09 ~   ) 멀티 모달 인공 지능 기반의 생체 위험 지수 개발: 생체 나이 추정을 중심으로
 - (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (2024 환경데이터 활용 및 분석 공모전 업그레이드)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
+
+
+## 👨🏻‍💻 Completed Project
+- (2024.09 ~ 10) 데이터 기반 페르소나 정의와 마케팅 전략 수립: Feature Engineering & k-Means Clustering (DIVE 2024 해커톤)
 - (2024.05 ~ 08) [XGBoost, LightGBM, CatBoost 앙상블 모델과 SHAP_Value를 활용한 전력기상지수 예측 및 주요 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제4 전력분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Elec)
 - (2024.05 ~ 08) [XGBoost + Oversampling + SHAP_Value을 활용한시정 계급 예측 및 유의미한 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제2 안개분야)](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Fog)
 - (2024.04 ~ 07) [GraphSage+GRU+RandomForest 모델을 활용한 수계, 생물계 데이터 기반 생물종 다양성 예측 (2024 환경데이터 활용 및 분석 공모전(분석부문))](https://github.com/KwonBK0223/2024_Echoton)
@@ -37,7 +40,6 @@
 - (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류 (2023 영남수학회, 2023 수학오월장)](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
 - (2023.03~05) [머신러닝을 활용한 개인 맞춤형 금융상품 추천 서비스 (2023 수학오월장)](https://github.com/KwonBK0223/Personalized_financial_product_recommendation_project_using_machine_learning)
 
-## 👨🏻‍💻 Completed Project
 ## 📋Once I've Used
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
