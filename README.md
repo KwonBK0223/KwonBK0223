@@ -22,7 +22,7 @@
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 
-## 🌐 Conference Presentations
+## 🌐 Presentations
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Proceedings of Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024 (Oral)
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Proceedings of CKAIA 2024, Busan, Korea, August 16-17, 2024 (Poster)
 
