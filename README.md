@@ -2,29 +2,35 @@
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
-## :school: Education
+## 🏫 Education
 - 경북대학교 데이터사이언스 대학원 AAI LAB (2024.03 ~ )
 - 경북대학교 데이터사이언스 대학원 석사과정 (2024.03 ~ )
 - 부산대학교 산업수학센터 학부연구생 (2023.03 ~ 2023.12)
 - 부산대학교 산업수학소프트웨어 연계전공 (2022.03 ~ 2024.02)
 - 부산대학교 수학과 (2017.03 ~ 2024.02)
 
+## 🔍 Research Interests
+- Applied AI
+- XAI
+- Machine learning with Graphs
   
-## Prize
+## 🏆 Prize
 - 2024 환경데이터 활용 및 분석 공모전(분석부문) **우수상**<br>
 - 2024 날씨 빅데이터 콘테스트(안개 부문) **입선**<br>
 - 2024 날씨 빅데이터 콘테스트(전력 부문) **입선**<br>
 - 2023 날씨 빅데이터 콘테스트 **입선**<br>
 - 2023 영남수학회 포스터발표 **장려상**
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
-- 
-## On going Project
+
+## 📃 Publications
+- Not yet...
+  
+## 👨🏻‍💻 On going Project
 - (2024.10 ~   ) 뉴턴의 고전역학과 딥러닝의 만남: 어선 위험 상황 탐지 시스템 (제2회 K-DS 컨소시엄&해커톤)
 - (2024.10 ~   ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon)
 - (2024.09 ~   ) Development of Biological Risk Index based on Multi-modal Artificial Intelligence: A study on biological age estimation (개인 연구)
 - (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
-
 
 ## 👨🏻‍💻 Completed Project
 - (2024.09 ~ 10) 데이터 기반 페르소나 정의와 마케팅 전략 수립: Feature Engineering & k-Means Clustering (DIVE 2024 해커톤)
