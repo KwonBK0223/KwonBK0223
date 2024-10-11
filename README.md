@@ -19,9 +19,9 @@
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 ## 👨🏻‍💻 On going Project
 - (2024.10 ~   ) 뉴턴의 고전역학과 딥러닝의 만남: 어선 위험 상황 탐지 시스템 (제2회 K-DS 컨소시엄&해커톤)
-- (2024.10 ~   ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon, private : )
-- (2024.09 ~   ) 멀티 모달 인공 지능 기반의 생체 위험 지수 개발: 생체 나이 추정을 중심으로
-- (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (2024 환경데이터 활용 및 분석 공모전 업그레이드)
+- (2024.10 ~   ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon)
+- (2024.09 ~   ) 멀티 모달 인공 지능 기반의 생체 위험 지수 개발: 생체 나이 추정을 중심으로 (개인 연구)
+- (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 
 
