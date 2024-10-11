@@ -51,7 +51,7 @@
 - (2023.03 ~ 05) [딥러닝을 활용한 영어 손글씨 데이터 분류 (2023 영남수학회, 2023 수학오월장)](https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning)<br>(Web site : https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/)
 - (2023.03~05) [머신러닝을 활용한 개인 맞춤형 금융상품 추천 서비스 (2023 수학오월장)](https://github.com/KwonBK0223/Personalized_financial_product_recommendation_project_using_machine_learning)
 
-## 📋Once I've Used
+## 📋 Once I've Used
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Matlab-007ACC?style=for-the-badge&logo=Matlab&logoColor=white">
