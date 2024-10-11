@@ -25,7 +25,7 @@
 ## 🌐 Presentations
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Proceedings of CKAIA 2024, Busan, Korea, August 16-17, 2024 (Poster)
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Proceedings of Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024 (Oral)
-- 
+  
 ## 📃 Publications
 - Not yet...
   
