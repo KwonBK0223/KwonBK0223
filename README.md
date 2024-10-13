@@ -23,6 +23,7 @@
 - 2023 수학오월장(학과대회) **우수상** , **장려상**
 
 ## 🎙️ Presentations
+- Byeongkeun Kwon, Suhyeon Kim, "Privacy-preserving Federated Learning for Abnormal Driving Behavior Detection", KICS 2024, Gyeongju, Korea, November 20-22 (Oral)
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", CKAIA 2024, Busan, Korea, August 16-17, 2024 (Poster)
 - Byeongkeun Kwon, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024 (Oral)
   
