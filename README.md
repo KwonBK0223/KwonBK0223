@@ -32,7 +32,7 @@
 - Not yet...
   
 ## 👨🏻‍💻 On Going Project
-- (2024.10 ~   ) 뉴턴의 고전역학과 딥러닝의 만남: 어선 위험 상황 탐지 시스템 (제2회 K-DS 컨소시엄&해커톤)
+- (2024.10 ~   ) Classical mechanics meet deep learning: Ship hazardous navigation detection system (제2회 K-DS 컨소시엄&해커톤)
 - (2024.09 ~   ) Development of Biological Risk Index based on Multi-modal Artificial Intelligence: A study on biological age estimation (개인 연구)
 - (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
