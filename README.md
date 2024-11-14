@@ -15,7 +15,8 @@
 - Machine learning with Graphs
   
 ## 🏆 Prize
-- 2024 환경데이터 활용 및 분석 공모전(분석 부문) **우수상**<br>
+- 2024 K-데이터사이언스 컨퍼런스&해커톤(해커톤 부문) **한국지능정보사회진흥원장상**<br>
+- 2024 환경데이터 활용 및 분석 공모전(분석 부문) **국립공원공단이사장상**<br>
 - 2024 날씨 빅데이터 콘테스트(안개 부문) **입선**<br>
 - 2024 날씨 빅데이터 콘테스트(전력 부문) **입선**<br>
 - 2023 날씨 빅데이터 콘테스트 **입선**<br>
@@ -32,12 +33,12 @@
 - Not yet...
   
 ## 👨🏻‍💻 On Going Project
-- (2024.10 ~   ) Classical mechanics meet deep learning: Ship hazardous navigation detection system (제2회 K-DS 컨소시엄&해커톤)
 - (2024.09 ~   ) Development of Biological Risk Index based on Multi-modal Artificial Intelligence: A study on biological age estimation (개인 연구)
 - (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 
 ## 👨🏻‍💻 Completed Project
+- (2024.10 ~ 11) Classical mechanics meet deep learning: Ship hazardous navigation detection system (제2회 K-DS 컨소시엄&해커톤)
 - (2024.10     ) 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 (Dacon, private : 48/550, 8.7%) [code](https://github.com/KwonBK0223/vegetable_price_predict/tree/main)
 - (2024.09 ~ 10) 데이터 기반 페르소나 정의와 마케팅 전략 수립: Feature Engineering & k-Means Clustering (DIVE 2024 해커톤)
 - (2024.05 ~ 08) XGBoost, LightGBM, CatBoost 앙상블 모델과 SHAP_Value를 활용한 전력기상지수 예측 및 주요 변수 분석 (2024 날씨 빅데이터 콘테스트, 과제4 전력분야) [code](https://github.com/KwonBK0223/2024_Weather_Bigdata_Contest_Elec)
