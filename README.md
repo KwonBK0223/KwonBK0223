@@ -33,7 +33,7 @@
 - Not yet...
   
 ## 👨🏻‍💻 On Going Project
-- (2024.11 ~   ) Classical mechanics meet deep learning: Derive a risk score for vessel with Transformer Autoencoder (개인 연구)
+- (2024.11 ~   ) Classical mechanics meet deep learning: Derive a Risk Score for vessel with Transformer Autoencoder (개인 연구)
 - (2024.07 ~   ) ABGNN: Aquatic Biodiversity Graph Neural Network for prediction of aquatic biodiversity with water system (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 
@@ -47,6 +47,9 @@
 - (2024.03 ~ 06) Graph Neural Network를 활용한 KBO 승부예측 (DeepLearn 2024 11th International School on Deep Learning & CKAIA, 한국인공지능학회 2024 하계학술대회) [code](https://github.com/KwonBK0223/KBO_Match_Prediction_with_GNN)
 - (2024.02 ~ 03) 웹 로그 기반 조회수 예측 해커톤(Dacon, private : 10/361, 2.7%) [code](https://dacon.io/competitions/official/236226/codeshare/9853?page=1&dtype=recent)
 - (2024.01 ~ 02) 고객 대출등급 분류 해커톤(Dacon, private : 22/784, 2.8%) [code](https://github.com/KwonBK0223/customer_loan_rating_hackathon/tree/main)
+
+
+
 - (2023.11     ) 빅데이터 기반의 학령인구 예측 (제1회 K-DS 컨소시엄&해커톤) [code](https://github.com/KwonBK0223/KDS_Hackathon_2023/tree/main)
 - (2023.09 ~ 10) 기상현상에 따른 뜰개 추적 (제3회 해양과학 빅데이터 경진대회) [code](https://github.com/KwonBK0223/SEALAB_2023)
 - (2023.06 ~ 08) 기상에 따른 선박 닻 끌림 예측 (2023 날씨 빅데이터 콘테스트) [code](https://github.com/KwonBK0223/2023_Weather_Bigdata_Contest)
