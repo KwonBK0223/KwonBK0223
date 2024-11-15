@@ -33,8 +33,8 @@
 - Not yet...
   
 ## 👨🏻‍💻 On Going Project
-- (2024.09 ~   ) Development of Biological Risk Index based on Multi-modal Artificial Intelligence: A study on biological age estimation (개인 연구)
-- (2024.07 ~   ) The Prediction of Aquatic Biodiversity with Water System Data Using Graph Neural Networks_A Case Study on Republic of Korea (개인 연구)
+- (2024.11 ~   ) Classical mechanics meet deep learning: Derive a risk score for vessel with Transformer Autoencoder (개인 연구)
+- (2024.07 ~   ) ABGNN: Aquatic Biodiversity Graph Neural Network for prediction of aquatic biodiversity with water system (개인 연구)
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 
 ## 👨🏻‍💻 Completed Project
