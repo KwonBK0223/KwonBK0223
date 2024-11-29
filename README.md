@@ -33,8 +33,9 @@
 - Not yet...
   
 ## 👨🏻‍💻 On Going Project
-- (2024.11 ~   ) Classical mechanics meet deep learning: Derive a Risk Score for vessel with Transformer Autoencoder (개인 연구)
-- (2024.07 ~   ) ABGNN: Aquatic Biodiversity Graph Neural Network for prediction of aquatic biodiversity with water system (개인 연구)
+- (2024.11 ~   ) Classical mechanics meet deep learning: Derive a Risk Score for vessel with Transformer Autoencoder
+- (2024.10 ~   ) Privacy-preserving Federated Learning for Abnormal Driving Behavior Detection
+- (2024.07 ~   ) ABGNN: Aquatic Biodiversity Graph Neural Network for prediction of aquatic biodiversity with water system
 - (2024.05 ~   ) Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury (아주대 의대 협업)
 
 ## 👨🏻‍💻 Completed Project
