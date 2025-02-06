@@ -37,7 +37,7 @@ Not publish yet
 ### SCOPUS
 Not publish yet
 ### Wroking Paper (SCOPUS)
-1. **Byeongkeun Kwon**, Suhyeon Kim*, "Driver Behavior Anomaly Detection based on Federated Learning  Considering Data Distribution Imbalance" (under revision at The Journal of Korean Institute of Communications and Information Sciences)
+1. **Byeongkeun Kwon**, Suhyeon Kim*, "Driver Behavior Anomaly Detection based on Federated Learning  Considering Data Distribution Imbalance" (Accept at The Journal of Korean Institute of Communications and Information Sciences)
 ### Patents
   
 ## 👨🏻‍💻 On Going Project
