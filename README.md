@@ -33,7 +33,7 @@
 ### SCI(E)/SCOPUS Papers
 1. **Byeongkeun Kwon**, Suhyeon Kim*, "Driver Behavior Anomaly Detection based on Federated Learning  Considering Data Distribution Imbalance" (Accept at The Journal of Korean Institute of Communications and Information Sciences)
 ### Working Paper (SCI(E)/SCOPUS Papers)
-1. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[BLIND]" (†: equal contribution,*: co-corresponding) (submitted to The Journal of Neurotrauma)
+2. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[BLIND]" (†: equal contribution,*: co-corresponding) (submitted to The Journal of Neurotrauma)
 ### Patents
 1. Aquatic biodiversity prediction system and its method
 ## 👨🏻‍💻 On Going Project
