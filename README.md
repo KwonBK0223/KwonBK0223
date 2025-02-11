@@ -30,7 +30,7 @@
 - **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024 (Oral)
   
 ## 📃 Publications
-### SCI(E)/SCOPUS Papers
+### SCI(E) / SCOPUS Papers
 1. **Byeongkeun Kwon**, Suhyeon Kim*, "Driver Behavior Anomaly Detection based on Federated Learning  Considering Data Distribution Imbalance" (Accept at The Journal of Korean Institute of Communications and Information Sciences)
 ### Working Paper (SCI(E)/SCOPUS Papers)
 2. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[BLIND]" (†: equal contribution,*: co-corresponding) (submitted to The Journal of Neurotrauma)
