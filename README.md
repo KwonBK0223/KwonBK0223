@@ -35,11 +35,11 @@ Not publish yet
 ### Working Paper (SCI(E))
 1. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[BLIND]" (†: equal contribution,*: co-corresponding) (submitted to The Journal of Neurotrauma)
 ### SCOPUS
-Not publish yet
-### Wroking Paper (SCOPUS)
 1. **Byeongkeun Kwon**, Suhyeon Kim*, "Driver Behavior Anomaly Detection based on Federated Learning  Considering Data Distribution Imbalance" (Accept at The Journal of Korean Institute of Communications and Information Sciences)
+### Wroking Paper (SCOPUS)
+
 ### Patents
-  
+1. Aquatic biodiversity prediction system and its method
 ## 👨🏻‍💻 On Going Project
 - (2025.01 ~   ) Developing a Graph Neural Net (GNN) model for Density Functional Theory (DFT) based formation energy prediction (With PNU CPMD)
 - (2024.12 ~   ) Development of a security vulnerability detection tool using an artificial intelligence model to generate automated test cases for a variety of automotive communication protocols and in-vehicle infotainment file formats.
