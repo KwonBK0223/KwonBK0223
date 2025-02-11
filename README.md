@@ -37,6 +37,7 @@
 ### Patents
 1. Aquatic biodiversity prediction system and its method
 ## 👨🏻‍💻 On Going Project
+- (2025.02 ~   ) Development a screw path recommendation system for spinal injury patients
 - (2025.01 ~   ) Developing a Graph Neural Net (GNN) model for Density Functional Theory (DFT) based formation energy prediction (With PNU CPMD)
 - (2024.12 ~   ) Development of a security vulnerability detection tool using an artificial intelligence model to generate automated test cases for a variety of automotive communication protocols and in-vehicle infotainment file formats.
 - (2024.11 ~   ) Classical mechanics meet deep learning: Derive a Risk Score for vessel with Transformer Autoencoder
