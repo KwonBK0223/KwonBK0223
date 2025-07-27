@@ -38,7 +38,7 @@
    
 ## 📃 Publications
 ### SCI(E) / SCOPUS Papers
-1. **Byeongkeun Kwon**, Suhyeon Kim*, "[Driver Behavior Anomaly Detection based on Federated Learning Considering Data Distribution Imbalance](https://journal.kics.or.kr/digital-library/102247)", The Journal of Korean Institute of Communications and Information Sciences, 50(3), 395-405, March 2025 (🎉Best Paper of JKICS).
+1. **Byeongkeun Kwon**, Suhyeon Kim*, "[Driver Behavior Anomaly Detection based on Federated Learning Considering Data Distribution Imbalance](https://journal.kics.or.kr/digital-library/102247)", The Journal of Korean Institute of Communications and Information Sciences, 50(3), 395-405, March 2025 (**🎉Best Paper of JKICS**).
    
 ### Working Paper (SCI(E)/SCOPUS Papers)
 1. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[BLIND]" (†: equal contribution,*: co-corresponding) (submitted to The Journal of Neurotrauma)
