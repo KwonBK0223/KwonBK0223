@@ -67,6 +67,12 @@
 [![KwonBK0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonBK0223)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+## 📰 Article
+https://www.etnews.com/20250704000236
+https://www.imaeil.com/page/view/2025090700284189047
+https://www.newsis.com/view/NISX20250905_0003317834
+https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335391&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214
+
 </div>
 
 
