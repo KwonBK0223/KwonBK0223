@@ -15,6 +15,8 @@
 - Machine learning with Graphs
   
 ## 🏆 Prize
+- 2025 K-데이터사이언스 컨퍼런스&해커톤(해커톤 부문) **과학기술정보통신부장관상**
+- 2025 ICT Challenge 2025 **과학기술정보통신부장관상**
 - 2025 환경데이터 활용 및 분석 공모전(분석 부문) **환경부장관상**
 - 2024 K-데이터사이언스 컨퍼런스&해커톤(해커톤 부문) **한국지능정보사회진흥원장상(NIA)**
 - 2024 환경데이터 활용 및 분석 공모전(분석 부문) **국립공원공단이사장상**
@@ -26,9 +28,10 @@
 
 ## 🎙️ Presentations
 ### International Conference
-1. Hyosung Kim, Taejun Kwon, **Byeongkeun Kwon**, Jieun Jang, Jihun Jang, "DRIVE: Drowsiness Recognition and Intelligent Vibration Evocation", IIIE WORLD HAPTICS CONFERENCE 2025, Suwon, Korea, July 8-11, 2025.
-2. **Byeongkeun Kwon**, Suhyeon Kim, "Classical Mechanics Meet Deep Learning: Ship Hazardous Navigation Detection System", IISE Annual Conference & Expo 2025, Atlanta, USA, May 31-Jun 03, 2025.
-3. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024.
+1. Eunji Lee, **Byeongkeun Kwon**, Suhyeon Kim, Sunghyun Noh, "Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury", ASIA SPINE & NCS 2025, Busan, Korea, Sep 4-6, 2025.
+2. Hyosung Kim, Taejun Kwon, **Byeongkeun Kwon**, Jieun Jang, Jihun Jang, "DRIVE: Drowsiness Recognition and Intelligent Vibration Evocation", IIIE WORLD HAPTICS CONFERENCE 2025, Suwon, Korea, July 8-11, 2025.
+3. **Byeongkeun Kwon**, Suhyeon Kim, "Classical Mechanics Meet Deep Learning: Ship Hazardous Navigation Detection System", IISE Annual Conference & Expo 2025, Atlanta, USA, May 31-Jun 03, 2025.
+4. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal, July 15-19, 2024.
 
 ### Domestic Conference
 1. **Byeongkeun Kwon**, Suhyeon Kim, "Mixer-integrated Graph Neural Networks for Accurate and Efficient Prediction of Crystalline Solid Properties", Proceedings of KIIE 2025 Joint Conference, Jeju, Korea, Jun 18-21, 2025.
@@ -45,7 +48,13 @@
 
 ### Patents
 1. Aquatic biodiversity prediction system and its method, 2025
-   
+
+## 📰 Article
+1. 스마트 안전벨트로 미래 모빌리티 혁신, 경북대 학생들이 해냈다 [link](https://www.imaeil.com/page/view/2025090700284189047)
+2. 경북대 d.ACE팀, 'ICT 챌린지' 과기부 장관상 수상 [link](https://www.newsis.com/view/NISX20250905_0003317834)
+3. 대학원생팀, ‘차세대 스마트 안전벨트’ 개발로 ‘ICT 챌린지’ 과기부 장관상 수상 [link](https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335391&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214)
+4. “환경 정보로 탄소중립 실현”…AI분리수거·수질리스크지수·친환경활동실천 플랫폼 등 '에코톤 대상' [link](https://www.etnews.com/20250704000236)
+
 ## ✉️ Contact
 **`house9895@knu.ac.kr`**<br>
 `house9895@naver.com`
@@ -66,12 +75,6 @@
 ## 📫 Stats
 [![KwonBK0223's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonBK0223)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-## 📰 Article
-https://www.etnews.com/20250704000236
-https://www.imaeil.com/page/view/2025090700284189047
-https://www.newsis.com/view/NISX20250905_0003317834
-https://www.knu.ac.kr/wbbs/wbbs/bbs/btin/viewBtin.action?bbs_cde=28&btin.bbs_cde=28&btin.doc_no=1335391&btin.appl_no=000000&btin.page=1&btin.search_type=&btin.search_text=&popupDeco=&btin.note_div=row&menu_idx=214
 
 </div>
 
