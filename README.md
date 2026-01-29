@@ -14,6 +14,10 @@
 - Applied AI
 - XAI
 - Machine learning with Graphs
+- Medical AI
+- Mobility AI
+- Federated Learning
+- Physical AI
   
 ## 🏆 Prize
 - 2025 K-데이터사이언스 컨퍼런스&해커톤(해커톤 부문) **과학기술정보통신부장관상**
