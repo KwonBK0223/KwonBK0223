@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 ## 🏫 Education
-- Ph.D. Program in Data Science, Kyungpook National University (Mar 2025 – Present)
+- Ph.D. Program in Data Science, Kyungpook National University (Mar 2026 – Present)
 - AAI Lab, Graduate School of Data Science, Kyungpook National University (Mar 2024 – Present)
 - M.S. in Data Science, Kyungpook National University (Mar 2024 – Feb 2026)
 - Undergraduate Researcher, Industrial Mathematics Center, Pusan National University (Mar 2023 – Dec 2023)
