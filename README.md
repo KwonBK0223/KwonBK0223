@@ -12,12 +12,11 @@
 
 ## 🔍 Research Interests
 - Applied AI
-- XAI
-- Machine learning with Graphs
 - Medical AI
 - Mobility AI
-- Federated Learning
+- Privacy-preserving and Secure AI
 - Physical AI
+- Machine learning with Graphs
   
 ## 🏆 Prize
 - **Minister of Science and ICT Award**, 2025 K-Data Science Conference & Hackathon (Hackathon Track) <br>
