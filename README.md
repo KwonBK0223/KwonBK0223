@@ -62,12 +62,15 @@
 5. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", *Deel Learn 2024 11th International School on Deep Learning, Porto, Portugal*, July 15-19, 2024.
 
 ### Domestic Conference
-1. **Byeongkeun Kwon**, Dain Lee, Dasom Seong, Suhyeon Kim, "Development of a Generative Adversarial Networks-based Fuzzing Test Technique for Vehicle Communication Security", *Proceedings of KSAE 2025 Fall Conference*, Busan, Korea, Nov 12-15, 2025.
-2. **Byeongkeun Kwon**, Suhyeon Kim, "A Newtonian-informed Transformer AutoEncoder for Vessel Navigation Risk Estimation", *Proceedings of KIIE 2025 Fall Conference*, Daejeon, Korea, Nov 06-07, 2025.
-3. **Byeongkeun Kwon**, Suhyeon Kim, "Mixer-integrated Graph Neural Networks for Accurate and Efficient Prediction of Crystalline Solid Properties", *Proceedings of KIIE 2025 Joint Conference*, Jeju, Korea, Jun 18-21, 2025.
-4. **Byeongkeun Kwon**, Suhyeon Kim, "Privacy-preserving Federated Learning for Abnormal Driving Behavior Detection", *Proceedings of  KICS Fall Conference 2024*, Gyeongju, Korea, November 20-22, 2024.
-5. Eunji Lee, **Byeongkeun Kwon**, Suhyeon Kim, Sunghyun Noh, "Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury", *NCS 2024*, Seoul, Korea, September 5-7, 2024.
-6. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", *Proceedings of Korean Artificial Intelligence Association 2024 Conference*, Busan, Korea, August 16-17, 2024.
+1. **Byeongkeun Kwon**, Dasom Seong, Suhyeon Kim, "Graph Neural Network-based Water Quality Risk Index for Spatio-Temporal Watershed Systems", *Proceedings of KIIE 2026 Joint Conference*, Kyungju, Korea, Jun 4-6, 2026.
+2. **Byeongkeun Kwon**, Seseun You, Dain Lee, Dasom Seong, Suhyeon Kim, Hyung Jong Cho, Hyuntae Cho, Young Seop Son, Suhyeon Kim, "Lightweight MLP-Mixer for Real-time Weight-in-Motion with Embedded Deployment", *Proceedings of KSAE 2026 Spring Conference*, Jeju, Korea, May 20-23, 2026.
+3. **Byeongkeun Kwon**, Dasom Seong, Suhyeon Kim, Sunghun Noh, "3D Generative Models for Vertebral Segmentation and Pedicle Screw Path Prediction", *The 44th Annual Sping Meeting of the Korean Neurosurgical Society*, Jeju, Korea, Apr 16-18, 2026.
+4. **Byeongkeun Kwon**, Dain Lee, Dasom Seong, Suhyeon Kim, "Development of a Generative Adversarial Networks-based Fuzzing Test Technique for Vehicle Communication Security", *Proceedings of KSAE 2025 Fall Conference*, Busan, Korea, Nov 12-15, 2025.
+5. **Byeongkeun Kwon**, Suhyeon Kim, "A Newtonian-informed Transformer AutoEncoder for Vessel Navigation Risk Estimation", *Proceedings of KIIE 2025 Fall Conference*, Daejeon, Korea, Nov 06-07, 2025.
+6. **Byeongkeun Kwon**, Suhyeon Kim, "Mixer-integrated Graph Neural Networks for Accurate and Efficient Prediction of Crystalline Solid Properties", *Proceedings of KIIE 2025 Joint Conference*, Jeju, Korea, Jun 18-21, 2025.
+7. **Byeongkeun Kwon**, Suhyeon Kim, "Privacy-preserving Federated Learning for Abnormal Driving Behavior Detection", *Proceedings of  KICS Fall Conference 2024*, Gyeongju, Korea, November 20-22, 2024.
+8. Eunji Lee, **Byeongkeun Kwon**, Suhyeon Kim, Sunghyun Noh, "Development of Machine Learning Model Predicting the Need for Tracheostomy after Cervical Spinal Cord Injury", *NCS 2024*, Seoul, Korea, September 5-7, 2024.
+9. **Byeongkeun Kwon**, Suhyeon Kim, "Baseball Match Prediction based on Graph Neural Network", *Proceedings of Korean Artificial Intelligence Association 2024 Conference*, Busan, Korea, August 16-17, 2024.
 
 ### Patents
 1. Aquatic biodiversity prediction system and its method, 2025
