@@ -49,7 +49,10 @@
    
 ### Working Paper (SCI(E))
 1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation" (submitted to Journal of Ocean Engineering and Science) (*: corresponding)
-   
+
+## 🏆 Grant
+- **KNU Ph.D. Fellow**, Kyungpook National University, Spring 2026, Award amount: **KRW 5,000,000** *(approximately USD 3.3K)*
+
 ## 🎙️ Presentations
 ### International Conference
 1. **Byeongkeun Kwon**, Dasom Seong, Suhyeon Kim, Sunghun Noh, "3D Generative Models for Vertebral Segmentation and Pedicle Screw Path Prediction", *MICCAI 2025 CLINICCAI*, Daejeon, Korea, Sep 23-27, 2025.
