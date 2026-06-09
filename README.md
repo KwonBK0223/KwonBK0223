@@ -48,7 +48,7 @@
 1. **Byeongkeun Kwon**, Suhyeon Kim*, "[Driver Behavior Anomaly Detection based on Federated Learning Considering Data Distribution Imbalance](https://journal.kics.or.kr/digital-library/102247)", *The Journal of Korean Institute of Communications and Information Sciences*, 50(3), 395-405, March 2025 (**🎉Best Paper of JKICS**).
    
 ### Working Paper (SCI(E))
-1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation" (submitted to Journal of Ocean Engineering and Science) (*: corresponding)
+1. **Byeongkeun Kwon**, Dain Lee, Suhyeon Kim*, "A Newtonian-informed Transformer Autoencoder for Fishing Vessel Navigation Risk Index Estimation" (submitted to Engineering Applications of Artificial Intelligence) (*: corresponding)
 
 ## 🏆 Grant
 - **KNU Ph.D. Fellow**, Kyungpook National University, Spring 2026, Award amount: **KRW 5,000,000** *(approximately USD 3.3K)*
