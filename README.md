@@ -43,7 +43,7 @@
 ## 📃 Publications
 ### SCI(E) Papers
 1. **Byeongkeun Kwon†**, Dain Lee†, Hyunjun Ko, Hanbin Lee, Hyeonjun Hwang*, Suhyeon Kim*, "[A Graph Neural Network Approach for Aquatic Biodiversity Prediction Leveraging Water System Interconnections](https://doi.org/10.1016/j.ecoinf.2026.103776)", *Ecological Informatics (**JCR Q1 4.1%**)* (†: equal contribution,*: co-corresponding), May 2026.
-2. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "Predictive Modelling of the Need for Tracheostomy after Traumatic Cervical Spinal Cord Injury using Machine Learning", *Yonsei Medical Journal (**JCR Q1**)* (†: equal contribution,*: co-corresponding), 2026 (**accepted**).
+2. Eun-ji Lee†, **Byeongkeun Kwon†**, Suhyeon Kim*, Sung Hyun Noh*, "[Predictive Modelling of the Need for Tracheostomy after Traumatic Cervical Spinal Cord Injury using Machine Learning](https://doi.org/10.3349/ymj.2025.0190)", *Yonsei Medical Journal (**JCR Q1**)* (†: equal contribution,*: co-corresponding), 2026 (**accepted**).
 ### SCOPUS Papers
 1. **Byeongkeun Kwon**, Suhyeon Kim*, "[Driver Behavior Anomaly Detection based on Federated Learning Considering Data Distribution Imbalance](https://journal.kics.or.kr/digital-library/102247)", *The Journal of Korean Institute of Communications and Information Sciences*, 50(3), 395-405, March 2025 (**🎉Best Paper of JKICS**).
    
