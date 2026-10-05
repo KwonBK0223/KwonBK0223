@@ -4,4 +4,4 @@
 
 I am a Ph.D. student in Data Science at Kyungpook National University, advised by Prof. Suhyeon Kim. My research focuses on applied AI for mobility, industrial systems, and medical data — including risk estimation, anomaly detection, graph machine learning, and privacy-preserving AI.
 
-Please visit my website [https://kwonbk0223.github.io/](https://kwonbk0223.github.io/).
+Please visit my website [https://kwonbk0223.github.io/](https://kwonbk0223.github.io/)
